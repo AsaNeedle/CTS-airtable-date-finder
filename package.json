@@ -1,0 +1,20 @@
+{
+  "name": "change_the_story",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "concat-frames": "^1.0.3",
+    "dotenv": "^8.2.0",
+    "exif-js": "^2.3.0",
+    "exif-reader": "^1.0.3",
+    "jpg-stream": "^1.1.2",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {},
+  "description": ""
+}
